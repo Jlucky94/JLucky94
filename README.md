@@ -10,7 +10,6 @@
 - 🌱 Exploring UI technologies.
 - 📖 In my spare time I solve problems on LeetCode. I also learn on Greatfrontend.
 - 📫 How to reach me: _[evgenycp@gmail.com]()_
-- 
 #### Connect with me: 
 
 [<img align='left' alt='https://www.linkedin.com/in/evgenii-li-9a555595/' width='22px' src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png' />](https://www.linkedin.com/in/evgenii-li-9a555595/)
