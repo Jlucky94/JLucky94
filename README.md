@@ -7,11 +7,17 @@
 ### I'm Front End Developer
 
 - 🔍 I'm currently **LookingForJob**
-- 🌱 Currently mode is: soak up knowledge like a sponge
+- 🌱 Exploring UI technologies.
 - 📖 In my spare time I solve problems on LeetCode. I also learn on Greatfrontend.
-- ⚡ I like watching this guy **[Joma Tech](https://www.youtube.com/c/JomaOppa)**
 - 📫 How to reach me: _[evgenycp@gmail.com]()_
+- 
 #### Connect with me: 
+
+[<img align='left' alt='https://www.linkedin.com/in/evgenii-li-9a555595/' width='22px' src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png' />](https://www.linkedin.com/in/evgenii-li-9a555595/)
+
+[<img align='left' alt='https://www.instagram.com/li.evgen94/' padding-left="10px" width='22px' src='https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-512.png' />](https://www.instagram.com/li.evgen94/)
+
+[<img align='left' alt='https://www.facebook.com/evgeny.li.14' width='22px' src='https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_facebook-512.png' />](https://www.facebook.com/evgeny.li.14)
 
 
 <div id="badges">
