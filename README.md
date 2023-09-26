@@ -20,17 +20,8 @@
 <br/>
 
 ### Languages and Tools:
-<img alt='' width='26px' padding-left="1px" src='https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png' />
-<img alt='' width='26px' padding-left="10px" src='https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png' />
-<img alt='' width='26px' padding-left="10px" src='https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png' />
-<img alt='' width='26px' padding-left="10px" src='https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_typescript_official_icon_130107.png' />
-<img alt='' width='26px' padding-left="10px" src='https://cdn1.iconfinder.com/data/icons/soleicons-fill-vol-1/64/reactjs_javascript_library_atom_atomic_react-256.png' />
-<img alt='' width='26px' padding-left="10px" src='https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png' />
-<img alt='' width='26px' padding-left="10px" src='https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png' />
-<img alt='' width='26px' padding-left="10px" src='https://cdn.icon-icons.com/icons2/2415/PNG/96/git_original_wordmark_logo_icon_146510.png' />
-<img alt='' width='26px' padding-left="10px" src='https://cdn.icon-icons.com/icons2/2248/PNG/512/material_ui_icon_137419.png' />
-<img alt='' width='26px' padding-left="10px" src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-128.png' />
-<img alt='' width='26px' padding-left="10px" src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_storybook_icon_130145.png' />
+<img alt='' width='26px' padding-left="1px" src='https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png' /><img alt='' width='26px' padding-left="10px" src='https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png' /><img alt='' width='26px' padding-left="10px" src='https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png' /><img alt='' width='26px' padding-left="10px" src='https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_typescript_official_icon_130107.png' /><img alt='' width='26px' padding-left="10px" src='https://cdn1.iconfinder.com/data/icons/soleicons-fill-vol-1/64/reactjs_javascript_library_atom_atomic_react-256.png' /><img alt='' width='26px' padding-left="10px" src='https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png' /><img alt='' width='26px' padding-left="10px" src='https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png' />
+<img alt='' width='26px' padding-left="10px" src='https://cdn.icon-icons.com/icons2/2415/PNG/96/git_original_wordmark_logo_icon_146510.png' /><img alt='' width='26px' padding-left="10px" src='https://cdn.icon-icons.com/icons2/2248/PNG/512/material_ui_icon_137419.png' /><img alt='' width='26px' padding-left="10px" src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-128.png' /><img alt='' width='26px' padding-left="10px" src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_storybook_icon_130145.png' />
 
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
